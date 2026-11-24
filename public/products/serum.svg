@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img">
+<defs>
+<linearGradient id="glass" x1="0" x2="1"><stop stop-color="#9a6a3c"/><stop offset=".25" stop-color="#c99a63"/><stop offset=".55" stop-color="#a87342"/><stop offset="1" stop-color="#6f4726"/></linearGradient>
+<linearGradient id="cream" x1="0" x2="1"><stop stop-color="#fbf8f1"/><stop offset=".5" stop-color="#e8dfd1"/><stop offset="1" stop-color="#cfc1ae"/></linearGradient>
+<linearGradient id="cap" x1="0" x2="1"><stop stop-color="#3b3a32"/><stop offset=".45" stop-color="#686556"/><stop offset="1" stop-color="#292820"/></linearGradient>
+<radialGradient id="shadow"><stop stop-color="#5a4a38" stop-opacity=".38"/><stop offset="1" stop-color="#5a4a38" stop-opacity="0"/></radialGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="900" height="1100" fill="#EAE0D1"/>
+<circle cx="690" cy="180" r="260" fill="#f6efe2" opacity=".55"/>
+<ellipse cx="450" cy="925" rx="270" ry="46" fill="url(#shadow)"/>
+<rect x="384" y="246" width="132" height="72" rx="10" fill="url(#cap)"/>
+<rect x="398" y="306" width="104" height="22" rx="4" fill="#c9b9a2"/>
+<path d="M356 328 H544 Q564 328 564 352 V828 Q564 860 532 860 H368 Q336 860 336 828 V352 Q336 328 356 328Z" fill="url(#glass)"/>
+<path d="M370 348 H392 V840 H370Z" fill="#fff" opacity=".22"/>
+<rect x="332" y="520" width="236" height="150" rx="2" fill="#F7F3EA" opacity=".96"/>
+<text x="450" y="572" text-anchor="middle" font-family="Georgia,serif" font-size="34" letter-spacing="4" fill="#292722">NŪRA</text>
+<line x1="392" y1="588" x2="508" y2="588" stroke="#756252" stroke-width="1"/>
+<text x="450" y="620" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" letter-spacing="2" fill="#535B45">RADIANCE</text>
+<text x="450" y="646" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#756252">FACE SERUM · 30ML</text>
+</svg>
